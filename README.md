@@ -1,3 +1,3 @@
-#SoftUni
+# H1 SoftUni
 
-[Programming Basics](https://softuni.bg/certificates/details/116675/db2e9630)
+Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
