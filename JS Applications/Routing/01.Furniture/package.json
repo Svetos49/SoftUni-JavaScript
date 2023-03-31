@@ -1,0 +1,19 @@
+{
+  "name": "01.furniture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "svet",
+  "license": "ISC",
+  "description": "Освен  lit-html и page е необходимо да се запусне и  lite сървъра с npm start",
+  "dependencies": {
+    "lit-html": "^2.2.1",
+    "lite-server": "^2.6.1",
+    "page": "^1.11.6"
+  },
+  "devDependencies": {}
+}
