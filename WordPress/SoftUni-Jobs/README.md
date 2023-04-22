@@ -1,3 +1,3 @@
 # SoftUni Jobs project
 
-This is an example small WordPress project that we are building together with the students.
+This is an example of a small WordPress project.
