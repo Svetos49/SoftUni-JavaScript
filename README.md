@@ -12,4 +12,4 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 - Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
-- Programing Fundamentals with JavaScript  https://softuni.bg/certificates/details/139070/c4168a8a
+- Programing Fundamentals with JavaScript  certificate
