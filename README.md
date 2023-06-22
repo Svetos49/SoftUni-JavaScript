@@ -7,8 +7,8 @@ ________________________________________________________________________________
 # Modules
 - Programming Basic
 - Fundamentals
-- JavaScript Advanced
+- JS Advanced
  - JS Applications
- - JS Advanced
+
 _____________________________________________________________________________________________________________________________________________________________________
-# Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
+- Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
