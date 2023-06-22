@@ -5,9 +5,9 @@ SoftUni's software engineering curriculum is a combination of programming and te
 The curriculum consists of several professional fields and subsequent specializations, built from specially selected training modules. Each training module contains courses with a strong focus on practice and the end of each course include practical and theoretical exam.
 ____________________________________________________________________________________________________________________________________________________________________
 # Modules
--Programming Basic
--Fundamentals
-*JavaScript Advanced
+- Programming Basic
+- Fundamentals
+- JavaScript Advanced
  - JS Applications
  - JS Advanced
 _____________________________________________________________________________________________________________________________________________________________________
