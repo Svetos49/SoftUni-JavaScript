@@ -11,5 +11,5 @@ ________________________________________________________________________________
  - JS Applications
 
 _____________________________________________________________________________________________________________________________________________________________________
-- Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
-- Programing Fundamentals with JavaScript  [certificate](https://softuni.bg/certificates/details/139070/c4168a8a)
+### Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
+### Programing Fundamentals with JavaScript  [certificate](https://softuni.bg/certificates/details/139070/c4168a8a)
