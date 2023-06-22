@@ -8,7 +8,7 @@ In the "JavaScript Advanced" course you gain in-depth knowledge of the JavaScrip
 - Working with linear structures
 - Object oriented programming
 - Functional programming
-  ## Course content
+## Course content
 - Syntax, Functions and Statements
 - Arrays and Nested Arrays
 - Objects and Composition
