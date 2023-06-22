@@ -12,3 +12,4 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________
 - Programming Basics [certificate](https://softuni.bg/certificates/details/116675/db2e9630)
+- Programing Fundamentals with JavaScript  [https://softuni.bg/users/profile/certificates?username=Svetos49]
