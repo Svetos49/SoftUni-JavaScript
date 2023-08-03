@@ -1,0 +1,42 @@
+[] Unpack project and install dependencies
+[] Create app entry point with placeholder handlers
+[] Impliment rendering dependency injection and create placeholder views
+
+Impliment views
+-Home
+[] Reading functionality in Data
+[] Template and view control
+
+-Catalog
+[] Extend reading functionality in Data service
+[] Template and view control
+
+-Login  Register and Logout
+[] Create User service
+[] Template and view control
+[] Submitting form and error handling
+[] Logout from navbar
+
+-Navigation header
+[] Session midleware
+[] Extend rendering midleware to include navbar
+[] Template and view control
+
+-Create
+[] Writing functionality in Data service
+[] Template and view control
+[] Submitting form and error handling
+
+-Details
+[] Extend reading functionality in Data service
+[] Template and view control
+
+-Edit and Delete
+[] Extend writing functionality in Data service
+[] Template and view control
+[] Submitting form and error handling
+
+**BONUS: Coments
+[] Create coment service
+[] Template and view control
+[] Submitting form and error handling
